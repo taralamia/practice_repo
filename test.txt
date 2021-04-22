@@ -1,0 +1,22 @@
+ei repo ta kotahy commit hocche ?
+bhul gaya hu
+dubkar marja
+amar mone hoi eitar repo create kora hoini
+repo create kora ache dekhai dekh
+
+.git ache mane ekhane repo initialize kora ACHE ALREADY AND 
+
+tor problem chilo renaming ai ,kono file type chilo na arki oita 
+git e shob file er file type thakte hobe 
+like .txt/.c/.py/.jpg like that so every file should have a specific file type
+
+lets go for manual aprroach
+
+shortcut add kore nish oi tutorial dekhe 
+ki shortcut 
+
+keyboard shorcut bole , tutorial e dekhay 
+nijermoto modify kore nis halka arki 
+tham github related kichu boltesos?
+
+nah others vs related
