@@ -21,6 +21,6 @@ printf("Total EVEN elements of the Array=%d\n",count);
 printf("Total ODD elements of the Array=%d",size-count);
 /*Different Approach
 We can take other count variable to count odd elements 
-then there will be an else condition/*
+then there will be an else condition*/
 return 0;
 }
