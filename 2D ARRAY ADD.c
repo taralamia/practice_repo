@@ -7,8 +7,8 @@ int main()
  scanf("%d",&row);
  printf("\nEnter the column number for the first and second matrix: ");
  scanf("%d",&col);
-    /*If we want to ADD two matrix,then the row and column num
-     has to be equal for both of the matrix */
+    ///*If we want to ADD two matrix,then the row and column number
+     ///*has to be equal for both of the matrix *///
   int A[row][col],B[row][col];
   int C[row][col];
 
